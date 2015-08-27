@@ -22,6 +22,14 @@ and `tag` is the tag specifying the EventStore version you want. Omit `:tag`
 for using latest.
 
 
+## Accessing the Web UI
+Get the IP of the running Event Store instance:
+
+    $ docker inspect -f "{{ .NetworkSettings.IPAddress }}" some-eventstore
+
+Open browser and go to **http://<ip-of-es-instance>:2113/**.
+Default username and password is **admin / changeit**.
+
 ## Environment Variables
 When you start the eventstore image, you can adjust the configuration of the
 EventStore instance by passing one or more environment variables on the docker
