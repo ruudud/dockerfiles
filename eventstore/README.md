@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
--   [`3.3.0`, `3.3`, `latest` (*3.3/Dockerfile*)](https://github.com/ruudud/dockerfiles/blob/32a14898c15979f0e7eb9a940196835bb1b51b37/eventstore/3.1/Dockerfile)
+-   [`3.3.0`, `3.3`, `latest` (*3.3/Dockerfile*)](https://github.com/ruudud/dockerfiles/blob/32a14898c15979f0e7eb9a940196835bb1b51b37/eventstore/3.3/Dockerfile)
 -   [`3.1.0`, `3.1` (*3.1/Dockerfile*)](https://github.com/ruudud/dockerfiles/blob/51c4a163f4b7b9b2a6e2e29316807064a21d5d3b/eventstore/3.1/Dockerfile)
 
 ![logo](https://raw.githubusercontent.com/EventStore/Brand/master/Logo.png)
