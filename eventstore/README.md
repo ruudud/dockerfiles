@@ -1,4 +1,4 @@
-***NOTE**: Please use the official [eventstore docker repo](https://hub.docker.com/r/eventstore/) for newer releases. This repo will not be updated.
+**NOTE**: *Please use the official [eventstore docker repo](https://hub.docker.com/r/eventstore/) for newer releases. This repo will not be updated.*
 
 # Supported tags and respective `Dockerfile` links
 
