@@ -1,4 +1,7 @@
 # Varnish in Alpine
+
+[![](https://badge.imagelayers.io/ruudud/varnish-alpine:latest.svg)](https://imagelayers.io/?images=ruudud/varnish-alpine:latest 'Get your own badge on imagelayers.io')
+
 Installs Varnish from the main APK repository, currently the Varnish version is
 4.1.3.
 
