@@ -1,5 +1,6 @@
 # Varnish in Alpine
-Installs Varnish from the main APK repository, currently the version is 4.1.3.
+Installs Varnish from the main APK repository, currently the Varnish version is
+4.1.3.
 
 This image requires the existence of `/etc/varnish/default.vcl`, so you need to
 volume-mount that in from somewhere.
